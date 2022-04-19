@@ -1,15 +1,3 @@
-Support
-Make it easy for people using your products to support you or give donations.
-
-Previous section
-
-
-BUY ME A COFFEE:
-yourname
-Previous section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Sergio
 =======================
 
