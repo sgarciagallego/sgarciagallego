@@ -4,7 +4,7 @@ Hi 👋 My name is Sergio
 Frontend Developer
 ------------------
 
-An 18-year-old Frontend Web Developer coming to 3 years' commercial experience in the field. Proficiency with versioning systems, local and remote repositories, HTML5, CSS3, JavaScript ES6 and NPM. Currently developing knowledge on React with Gatsby, by creating the new iteration of my personal portfolio using these technologies.
+An 18-year-old Frontend Web Developer coming to 3 years' commercial experience in the field. Proficiency with versioning systems, design systems, ES6+ JavaScript, React, Gatsby.js and am currently learning Next.js. Currently developing knowledge on React with Gatsby, by creating the new iteration of my personal portfolio using these technologies.
 
 * 🌍  I'm based in London (Brighton from Sep 2022)
 * 🖥️  See my portfolio at [sergiogarciagallego.com](http://sergiogarciagallego.com)
