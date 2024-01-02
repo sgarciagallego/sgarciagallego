@@ -14,7 +14,7 @@ Data-driven UX/UI Engineer with over 3 years of experience at privately held ent
 
 <a href="http://www.github.com/sgarciagallego"><img src="https://github-readme-stats.vercel.app/api?username=sgarciagallego&show_icons=true&hide=stars,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181925&hide_border=true&show_icons=true" alt="sgarciagallego's GitHub stats" /></a>
 
-<a href="http://www.github.com/sgarciagallego"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sgarciagallego&stroke=ffffff&background=181925&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sgarciagallego"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sgarciagallego&stroke=ffffff&background=181925&ring=f97316&fire=ec683c&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/sgarciagallego">[![Sergio's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sgarciagallego&bg_color=181925&color=fcf9f7&line=6f7af6&point=ec683c&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
 
