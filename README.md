@@ -1,34 +1,16 @@
 Hi 👋 My name is Sergio
 =======================
 
-Frontend Developer
+UX/UI Engineer
 ------------------
 
-An 18-year-old Frontend Web Developer coming to 3 years' commercial experience in the field. Proficiency with versioning systems, design systems, ES6+ JavaScript, React, Gatsby.js and am currently learning Next.js. Currently developing knowledge on React with Gatsby, by creating the new iteration of my personal portfolio using these technologies.
+Data-driven UX/UI Engineer with over 3 years of experience at privately held enterprises. Proven track record in delivering performant yet human-centred digital design products and websites.
 
-* 🌍  I'm based in London (Brighton from Sep 2022)
-* 🖥️  See my portfolio at [sergiogarciagallego.com](http://sergiogarciagallego.com)
-* ✉️  You can contact me at [mail@sergiogarciagallego.com](mailto:mail@sergiogarciasergio.com)
-* 🚀  I'm currently working on [Purple Beard](http://purplebeard.co.uk)
-* 🧠  I'm learning React, Gatsby and CSS in JS
-* 🤝  I'm open to collaborating on open-source Frontend-based projects
-* ⚡  I am looking to delve into the world of Web3 and blockchain, as I am highly interested in this field of work.
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/baguette#8453" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/sgarciagallego" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/s_garciagallego/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sgarciagallego/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+* 🌍 I'm currently based in Brighton, UK
+* 🖥️ View my blog at [trulysergio.com](http://trulysergio.com), where I talk tech, design, financial well-being and mindfulness
+* 📥 You can contact me at [mail@trulysergio.com](mailto:mail@trulysergio.com)
+* 🚀 My 9-5 is at [Purple Beard](http://purplebeard.co.uk)
+* 🧠 My 5-9 is at [Origin Blank](https://originblank.com)
 
 ### Badges
 
@@ -42,8 +24,8 @@ An 18-year-old Frontend Web Developer coming to 3 years' commercial experience i
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/sgarciagallego/100DaysOfCode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgarciagallego&repo=100DaysOfCode&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sgarciagallego/v1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgarciagallego&repo=v1&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/sgarciagallego/originblank" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgarciagallego&repo=originblank&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sgarciagallego/trulysergio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgarciagallego&repo=trulysergio&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/sgarciagallego/v2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgarciagallego&repo=v2&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sgarciagallego/Septik" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgarciagallego&repo=Septik&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/sgarciagallego/v2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgarciagallego&repo=v2&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sgarciagallego/holiday-chat-agent" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgarciagallego&repo=holiday-chat-agent&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
