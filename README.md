@@ -1,8 +1,6 @@
-Hi 👋 My name is Sergio
-=======================
+#Hi 👋, my name is Sergio!
 
-UX/UI Engineer
-------------------
+## UX/UI Engineer
 
 Data-driven UX/UI Engineer with over 3 years of experience at privately held enterprises. Proven track record in delivering performant yet human-centred digital design products and websites.
 
@@ -12,9 +10,7 @@ Data-driven UX/UI Engineer with over 3 years of experience at privately held ent
 * 🚀 My 9-5 is at [Purple Beard](http://purplebeard.co.uk)
 * 🧠 My 5-9 is at [Origin Blank](https://originblank.com)
 
-### Badges
-
-<b>My GitHub Stats</b>
+### GitHub Stats
 
 <a href="http://www.github.com/sgarciagallego"><img src="https://github-readme-stats.vercel.app/api?username=sgarciagallego&show_icons=true&hide=stars,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="sgarciagallego's GitHub stats" /></a>
 
@@ -22,7 +18,7 @@ Data-driven UX/UI Engineer with over 3 years of experience at privately held ent
 
 <a href="http://www.github.com/sgarciagallego"><img src="https://activity-graph.herokuapp.com/graph?username=sgarciagallego&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
+### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/sgarciagallego/originblank" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgarciagallego&repo=originblank&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sgarciagallego/trulysergio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sgarciagallego&repo=trulysergio&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
