@@ -1,4 +1,4 @@
-#Hi 👋, my name is Sergio!
+# Hi 👋, my name is Sergio!
 
 ## UX/UI Engineer
 
@@ -16,7 +16,7 @@ Data-driven UX/UI Engineer with over 3 years of experience at privately held ent
 
 <a href="http://www.github.com/sgarciagallego"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sgarciagallego&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sgarciagallego"><img src="https://activity-graph.herokuapp.com/graph?username=sgarciagallego&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sgarciagallego">[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgarciagallego&bg_color=181925&color=fcf9f7&line=6f7af6&point=ec683c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
 
 ### Top Repositories
 
