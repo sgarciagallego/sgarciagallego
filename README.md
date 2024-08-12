@@ -7,6 +7,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New beginnings...](https://sergiogarciagallego.com/blog/new-beginnings)
 <!-- BLOG-POST-LIST:END -->
 
 [View more posts](https://sergiogarciagallego.com/blog)
