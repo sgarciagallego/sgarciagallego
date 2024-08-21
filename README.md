@@ -8,7 +8,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to build an RSS feed in Next.js 14](https://sergiogarciagallego.com/blog/how-to-build-an-rss-feed-in-nextjs-14)
-- [New beginnings...](https://sergiogarciagallego.com/blog/new-beginnings)
+- [New beginnings](https://sergiogarciagallego.com/blog/new-beginnings)
 <!-- BLOG-POST-LIST:END -->
 
 [View more posts](https://sergiogarciagallego.com/blog)
