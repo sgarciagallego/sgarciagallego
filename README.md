@@ -7,6 +7,8 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A byte](https://sergiogarciagallego.com/bytes/)
+- [A byte](https://sergiogarciagallego.com/bytes/)
 - [How to build an RSS feed in Next.js 14](https://sergiogarciagallego.com/blog/how-to-build-an-rss-feed-in-nextjs-14)
 - [New beginnings](https://sergiogarciagallego.com/blog/new-beginnings)
 <!-- BLOG-POST-LIST:END -->
