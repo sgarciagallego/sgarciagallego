@@ -10,10 +10,10 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build an RSS feed in Next.js 14](https://sergiogarciagallego.com/writing/how-to-build-an-rss-feed-in-nextjs-14)
-- [New beginnings](https://sergiogarciagallego.com/writing/new-beginnings)
-- [All you need to know about handling typography on the web](https://sergiogarciagallego.com/writing/all-you-need-to-know-about-handling-typography-on-the-web)
-- [The difference between design systems, pattern libraries, and style guides](https://sergiogarciagallego.com/writing/design-systems-vs-pattern-libraries-vs-style-guides-whats-the-difference)
+- [How to build an RSS feed in Next.js 14](https://novicist.com/writing/how-to-build-an-rss-feed-in-nextjs-14)
+- [New beginnings](https://novicist.com/writing/new-beginnings)
+- [All you need to know about handling typography on the web](https://novicist.com/writing/all-you-need-to-know-about-handling-typography-on-the-web)
+- [The difference between design systems, pattern libraries, and style guides](https://novicist.com/writing/design-systems-vs-pattern-libraries-vs-style-guides-whats-the-difference)
 <!-- BLOG-POST-LIST:END -->
 
 [View more posts](https://novicist.com/blog)
